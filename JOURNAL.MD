@@ -22,3 +22,17 @@ SO i did a lot of stuffv :sob: i first of all actually finished my schematic and
 <img src"https://cdn.hackclub.com/01a10433-a551-770f-9654-5c1fdb3db2c7/Screenshot%202026-10-03%20at%204.57.31%E2%80%AFPM.jpg">
 
 **Total Time spent: 120 mins**
+
+
+#basically everything
+
+so well i was on a plen and lowk finished my pcb. i started off with polishing the left side and making it better, then started on the right side. it was mostly the same, besides it being a row or two longer, and me also wanting to put an ec11 on it. i had to redo it once or twice so they would be in order like sw40, sw41 sw42. i layed out the keyboard and proceeded to fail a few times because for some reason one of the rows only had even numbers and one only had odd. i added all my diodes which let me just say that it was not fun. you have to try to make every single diode semi precise, and then realize that you need to flip all of your keyboard switches and therefore move the diodes to the other side. routing wasnt as bad as it couldve been, it was mainly just connect diodes, do rows and colums and wire up to nice nano. i tried to make wiring up to the nice nano pretty clean, but kinda failed. i mean it doesnt have to look pretty i guess so its fineeee. i then worked on adding an edge.cuts layer, which was pretty simple. it was mainly just trying to make it the same height as the left side and then making sure it fit my nano and stuff. i normally just forget to do drc, but i actually did it this time and it was helpful. i forgot to wire up a few diodes and also a few other things, but my goat drc got those and i fixed them. also silkscreen violations r so stupid. oh yeah i also added in mounting holes which was mainly just trying to make them precise and i had to redo a bit of wiring that was in the way. oh yeah i had to add in mousebites cause my friend told me to just do one pcb with mousebites on it so i did that. lemme see what screenshots i can get.
+
+<img src="https://cdn.hackclub.com/01a12a60-de79-7054-8ef1-361109c30774/Screenshot%202026-10-11%20at%2011.52.31%E2%80%AFAM.jpg">
+<img src="https://cdn.hackclub.com/01a12a61-0e79-743d-916d-43b4a46608d9/Screenshot%202026-10-11%20at%2011.52.43%E2%80%AFAM.jpg">
+<img src="https://cdn.hackclub.com/01a12a61-52e1-7173-9db9-ab08c9da3f6e/Screenshot%202026-10-11%20at%2011.53.01%E2%80%AFAM.jpg">
+<img src="https://cdn.hackclub.com/01a12a61-80a4-7c85-8379-e3f8412c9b49/Screenshot%202026-10-11%20at%2011.53.13%E2%80%AFAM.jpg">
+<img src="https://cdn.hackclub.com/01a12a61-e40d-7327-b24c-27a1777bc7e8/Screenshot%202026-10-11%20at%2011.53.38%E2%80%AFAM.jpg">
+
+
+**Total Time spent: 270 mins**
