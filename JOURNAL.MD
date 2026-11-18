@@ -1,8 +1,8 @@
 ---
-title: "Duck?"
-author: "Kian Desh"
-description: "A fidget toy that lets you press a keyboard switch and play a noise"
-created_at: "2026-05-03"
+title: "SaltAndPepper"
+author: "kian"
+description: kewl wireless 65% split keeb"
+created_at: "2026-010-01"
 ---
 
 
