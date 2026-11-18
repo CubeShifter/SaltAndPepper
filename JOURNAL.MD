@@ -1,7 +1,7 @@
 ---
 title: "SaltAndPepper"
 author: "kian"
-description: kewl wireless 65% split keeb"
+description: "kewl wireless 65% split keeb"
 created_at: "2026-010-01"
 ---
 
